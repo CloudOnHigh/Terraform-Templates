@@ -85,7 +85,7 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/TerraformFeature`)
 3. Commit your Changes (`git commit -m 'Add some TerraformFeature'`)
 4. Push to the Branch (`git push origin feature/TerraformFeature`)
-5. Open a [Pull Request](https://github.com/TSCloudGit/TerraformTemplates/pulls)
+5. Open a [Pull Request](https://github.com/CloudOnHigh/Terraform-Templates/pulls)
 
 <!-- LICENSE -->
 ## License
