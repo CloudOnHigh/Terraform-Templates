@@ -10,7 +10,7 @@ variable "aws_master_account_id" {
 
 variable "ec2_tag" {
   description = "AWS tag of ec2 machines"
-  default     = "aminueza_free"
+  default     = "testing_free"
 }
 
 variable "aws_bucket_name" {
